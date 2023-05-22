@@ -1,0 +1,13 @@
+__pycache__/
+tools/
+data/
+checkpoints/
+results-*
+logs/
+.vscode/
+*.log
+reports/*
+!reports/protocol_*.md
+preprocess/*.pickle
+gradient-matching/
+venv/

@@ -1,0 +1,4 @@
+outputs/
+deprecated/
+*.sh
+*.txt
